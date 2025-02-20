@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.9291246"
-     inkscape:cx="1434.5583"
-     inkscape:cy="917.16822"
+     inkscape:zoom="1.4645623"
+     inkscape:cx="382.7082"
+     inkscape:cy="422.99327"
      inkscape:window-width="1800"
      inkscape:window-height="1096"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g487"
+     inkscape:current-layer="g3587"
      showguides="true"
      showgrid="false">
     <inkscape:page
@@ -2338,7 +2338,7 @@
          id="tspan14"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
          x="8.5040388"
-         y="114.69463">Erscheinung &amp; Ausrüstung</tspan></text>
+         y="114.69463">Ausrüstung</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2388,24 +2388,6 @@
        d="M 8.6522056,230.9535 H 164.09789"
        id="path50"
        sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.609801"
-       id="rect50"
-       width="59.593494"
-       height="74.455284"
-       x="144.61989"
-       y="23.482714" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="155.61223"
-       y="103.89608"
-       id="text61"><tspan
-         sodipodi:role="line"
-         id="tspan61"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-         x="155.61223"
-         y="103.89608">Portrait / Wappen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
@@ -3409,7 +3391,7 @@
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
          x="381.25479"
-         y="262.31387"
+         y="262.31384"
          id="tspan352">Mehrere Kämpfer können durch Summe </tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
@@ -3419,13 +3401,28 @@
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
          x="381.25479"
-         y="267.25275"
+         y="267.25272"
          id="tspan1268">Kämpfern, Potenziale oder Qualitäten</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
          x="381.25479"
          y="269.72217"
-         id="tspan1271">halbieren.</tspan></text>
+         id="tspan1271">halbieren.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="381.25479"
+         y="272.19162"
+         id="tspan132" /><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="381.25479"
+         y="274.66104"
+         id="tspan294">Wer Hintergedanken hat muss, um sein </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="381.25479"
+         y="277.13049"
+         id="tspan300">Ziel zu erreichen, auf Schaden verzichten.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3747,13 +3744,34 @@
          style="stroke-width:0.15"
          x="135.08249"
          y="198.09222" /></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect446"
-       width="58.058552"
-       height="72.716873"
-       x="145.38736"
-       y="24.351919" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="155.61223"
+       y="103.89608"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         x="155.61223"
+         y="103.89608">Portrait / Wappen</tspan></text>
+    <g
+       id="g303">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.609801"
+         id="rect50"
+         width="59.593494"
+         height="74.455284"
+         x="144.61989"
+         y="23.482714" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect446"
+         width="58.058552"
+         height="72.716873"
+         x="145.38736"
+         y="24.351919" />
+    </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 31.898997,222.23282 v 60.13322"
@@ -4321,7 +4339,7 @@
          sodipodi:role="line"
          id="tspan4023"
          x="144.38811"
-         y="187.19234">Fällt die Gesundheit unter die Wundschwellen, </tspan><tspan
+         y="187.19234">Fällt die Gesundheit auf die Wundschwellen, </tspan><tspan
          sodipodi:role="line"
          id="tspan4025"
          x="144.38811"
@@ -4469,27 +4487,27 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="89.972298"
-       y="112.40573"
+       x="47.638924"
+       y="114.52241"
        id="text3826"><tspan
          sodipodi:role="line"
-         x="89.972298"
-         y="112.40573"
-         id="tspan3909">Bis zu drei Gegenstände, deren Wert deinem Wert von Hab &amp; Gut entspricht. Für weniger </tspan><tspan
-         sodipodi:role="line"
-         x="89.972298"
-         y="115.93351"
-         id="tspan3913">wertvolle Dinge gilt keine Beschränkung.</tspan></text>
+         x="47.638924"
+         y="114.52241"
+         id="tspan303">Bis zu drei Gegenstände mit Wert von Hab &amp; Gut. Für weniger wertvolle Dinge gilt keine Beschränkung.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="29.604811"
-       y="29.681347"
+       y="28.452106"
        id="text3907"><tspan
          sodipodi:role="line"
          id="tspan3905"
          x="29.604811"
-         y="29.681347">Beschreibe den Charakter in einer Handvoll Sätzen oder Stichworten.</tspan></text>
+         y="28.452106">Beschreibe den Charakter in einer Handvoll Sätzen oder Stichworten zu den Bereichen</tspan><tspan
+         sodipodi:role="line"
+         x="29.604811"
+         y="31.979885"
+         id="tspan302">Hintergrund, Persönlichkeit, Fähigkeiten und Erscheinung.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4499,7 +4517,7 @@
          sodipodi:role="line"
          x="37.450947"
          y="218.45044"
-         id="tspan3917">Mache den ersten Eintrag bei der Erstellung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
+         id="tspan3917">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
