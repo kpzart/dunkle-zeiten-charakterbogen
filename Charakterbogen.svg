@@ -27,14 +27,14 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="1.4645623"
-     inkscape:cx="2140.9127"
-     inkscape:cy="478.98271"
+     inkscape:cx="593.69274"
+     inkscape:cy="99.347088"
      inkscape:window-width="1800"
      inkscape:window-height="1096"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3587"
+     inkscape:current-layer="g487"
      showguides="true"
      showgrid="false">
     <inkscape:page
@@ -2853,15 +2853,20 @@
          y="234.20688">Erfahrung</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="180.83821"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="203.93108"
        y="7.9704142"
        id="text228"><tspan
          sodipodi:role="line"
          id="tspan228"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
          x="180.83821"
-         y="7.9704142">www.landertal.de</tspan></text>
+         y="7.9704142">www.landertal.de</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
+         x="180.83821"
+         y="11.498194"
+         id="tspan61">2025-06-02</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3041,20 +3046,20 @@
        transform="translate(0,38.952986)"><tspan
          x="368.55478"
          y="110.1188"
-         id="tspan265"><tspan
+         id="tspan211"><tspan
            style="stroke-width:0.265"
-           id="tspan180">Betreffen einen Teilbereich, der dadurch  +2/-4 erhält </tspan></tspan><tspan
+           id="tspan132">Betreffen einen Teilbereich, der dadurch  +2/-4 erhält </tspan></tspan><tspan
          x="368.55478"
          y="112.94101"
-         id="tspan269"><tspan
+         id="tspan217"><tspan
            style="stroke-width:0.265"
-           id="tspan268">aber den Wert der  Fähigkeit um eins reduziert/erhöht. 
+           id="tspan216">aber den Wert der  Fähigkeit um eins reduziert/erhöht. 
 </tspan></tspan><tspan
          x="368.55478"
          y="115.76323"
-         id="tspan271"><tspan
+         id="tspan219"><tspan
            style="stroke-width:0.265"
-           id="tspan270">
+           id="tspan218">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -3076,36 +3081,36 @@
        transform="translate(0,46.884468)"><tspan
          x="368.55478"
          y="77.84803"
-         id="tspan278"><tspan
+         id="tspan221"><tspan
            style="stroke-width:0.265"
-           id="tspan275">Für jede Fertigkeit muss es mindestens eine andere </tspan></tspan><tspan
+           id="tspan220">Für jede Fertigkeit muss es mindestens eine andere </tspan></tspan><tspan
          x="368.55478"
          y="80.670246"
-         id="tspan282"><tspan
+         id="tspan223"><tspan
            style="stroke-width:0.265"
-           id="tspan280">Fertigkeit geben, auf die ein Punkt weniger verteilt </tspan></tspan><tspan
+           id="tspan222">Fertigkeit geben, auf die ein Punkt weniger verteilt </tspan></tspan><tspan
          x="368.55478"
          y="83.492466"
-         id="tspan285"><tspan
+         id="tspan225"><tspan
            style="stroke-width:0.265"
-           id="tspan283">worden ist.
+           id="tspan224">worden ist.
 </tspan></tspan><tspan
          x="368.55478"
          y="86.314686"
-         id="tspan287"><tspan
+         id="tspan227"><tspan
            style="stroke-width:0.265"
-           id="tspan286">
+           id="tspan226">
 </tspan></tspan><tspan
          x="368.55478"
          y="89.136906"
-         id="tspan289"><tspan
+         id="tspan262"><tspan
            style="stroke-width:0.265"
-           id="tspan288">Eine Fertigkeit mit Stärke zählt für die Säulenregel </tspan></tspan><tspan
+           id="tspan258">Eine Fertigkeit mit Stärke zählt für die Säulenregel </tspan></tspan><tspan
          x="368.55478"
          y="91.959126"
-         id="tspan294"><tspan
+         id="tspan264"><tspan
            style="stroke-width:0.265"
-           id="tspan292">einen Punkt mehr als ihr Wert.</tspan></tspan></text>
+           id="tspan263">einen Punkt mehr als ihr Wert.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:57.4343;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3115,53 +3120,53 @@
        transform="translate(0,22.830203)"><tspan
          x="368.55478"
          y="31.608337"
-         id="tspan304"><tspan
+         id="tspan268"><tspan
            style="stroke-width:0.265"
-           id="tspan300">Die erhaltenen Erfahrungs-Punkte können auf die </tspan></tspan><tspan
+           id="tspan265">Die erhaltenen Erfahrungs-Punkte können auf die </tspan></tspan><tspan
          x="368.55478"
          y="34.430558"
-         id="tspan329"><tspan
+         id="tspan270"><tspan
            style="stroke-width:0.265"
-           id="tspan328">Fertigkeiten vergeben werden. Der Wert ergibt sich aus </tspan></tspan><tspan
+           id="tspan269">Fertigkeiten vergeben werden. Der Wert ergibt sich aus </tspan></tspan><tspan
          x="368.55478"
          y="37.252777"
-         id="tspan485"><tspan
+         id="tspan275"><tspan
            style="stroke-width:0.265"
-           id="tspan333">den vergebenen Punkten plus 4.
+           id="tspan271">den vergebenen Punkten plus 4.
 </tspan></tspan><tspan
          x="368.55478"
          y="40.074997"
-         id="tspan503"><tspan
+         id="tspan280"><tspan
            style="stroke-width:0.265"
-           id="tspan502">
+           id="tspan278">
 </tspan></tspan><tspan
          x="368.55478"
          y="42.897217"
-         id="tspan507"><tspan
+         id="tspan283"><tspan
            style="stroke-width:0.265"
-           id="tspan504">Ist eine Stärke/Schwäche vorhanden wird außerdem </tspan></tspan><tspan
+           id="tspan282">Ist eine Stärke/Schwäche vorhanden wird außerdem </tspan></tspan><tspan
          x="368.55478"
          y="45.719437"
-         id="tspan510"><tspan
+         id="tspan286"><tspan
            style="stroke-width:0.265"
-           id="tspan508">ein Punkt abgezogen/addiert.
+           id="tspan285">ein Punkt abgezogen/addiert.
 </tspan></tspan><tspan
          x="368.55478"
          y="48.541657"
-         id="tspan514"><tspan
+         id="tspan288"><tspan
            style="stroke-width:0.265"
-           id="tspan511">
+           id="tspan287">
 </tspan></tspan><tspan
          x="368.55478"
          y="51.363877"
-         id="tspan516"><tspan
+         id="tspan292"><tspan
            style="stroke-width:0.265"
-           id="tspan515">Negative Punkte können zu Spielbeginn vergeben </tspan></tspan><tspan
+           id="tspan289">Negative Punkte können zu Spielbeginn vergeben </tspan></tspan><tspan
          x="368.55478"
          y="54.186097"
-         id="tspan518"><tspan
+         id="tspan305"><tspan
            style="stroke-width:0.265"
-           id="tspan517">werden und müssen im Profil begründet werden.</tspan></tspan></text>
+           id="tspan294">werden und müssen im Profil begründet werden.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3193,56 +3198,56 @@
        transform="translate(0,37.59697)"><tspan
          x="368.55478"
          y="124.75311"
-         id="tspan520"><tspan
+         id="tspan307"><tspan
            style="stroke-width:0.265"
-           id="tspan519">Eine Fertigkeit wird modifiziert, randomisiert und dann </tspan></tspan><tspan
+           id="tspan306">Eine Fertigkeit wird modifiziert, randomisiert und dann </tspan></tspan><tspan
          x="368.55478"
          y="127.57533"
-         id="tspan522"><tspan
+         id="tspan309"><tspan
            style="stroke-width:0.265"
-           id="tspan521">mit einer Schwierigkeit verglichen.
+           id="tspan308">mit einer Schwierigkeit verglichen.
 </tspan></tspan><tspan
          x="368.55478"
          y="130.39755"
-         id="tspan524"><tspan
+         id="tspan311"><tspan
            style="stroke-width:0.265"
-           id="tspan523">
+           id="tspan310">
 </tspan></tspan><tspan
          x="368.55478"
          y="133.21977"
-         id="tspan540"><tspan
+         id="tspan314"><tspan
            style="font-weight:bold"
-           id="tspan527">Potenzial</tspan><tspan
+           id="tspan312">Potenzial</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan539"> = Fertigkeit + Boni - Mali
+           id="tspan313"> = Fertigkeit + Boni - Mali
 </tspan></tspan><tspan
          x="368.55478"
          y="136.04199"
-         id="tspan543"><tspan
+         id="tspan325"><tspan
            style="font-weight:bold"
-           id="tspan541">Qualität</tspan><tspan
+           id="tspan321">Qualität</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan542"> = Potenzial + Würfel (W6 - W6)
+           id="tspan324"> = Potenzial + Würfel (W6 - W6)
 </tspan></tspan><tspan
          x="368.55478"
          y="138.86421"
-         id="tspan546"><tspan
+         id="tspan329"><tspan
            style="font-weight:bold"
-           id="tspan544">Effekt</tspan><tspan
+           id="tspan326">Effekt</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan545"> = Qualität - Schwierigkeit
+           id="tspan328"> = Qualität - Schwierigkeit
 </tspan></tspan><tspan
          x="368.55478"
          y="141.68643"
-         id="tspan548"><tspan
+         id="tspan332"><tspan
            style="stroke-width:0.265"
-           id="tspan547">
+           id="tspan330">
 </tspan></tspan><tspan
          x="368.55478"
          y="144.50865"
-         id="tspan550"><tspan
+         id="tspan334"><tspan
            style="stroke-width:0.265"
-           id="tspan549">Bestanden, wenn Effekt größer oder gleich Null ist.</tspan></tspan></text>
+           id="tspan333">Bestanden, wenn Effekt größer oder gleich Null ist.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3263,80 +3268,80 @@
        transform="translate(0,-7.8667898)"><tspan
          x="368.55478"
          y="220.75917"
-         id="tspan563"><tspan
+         id="tspan336"><tspan
            style="stroke-width:0.265"
-           id="tspan551">Eine vergleichende oder statische Probe auf  passende </tspan></tspan><tspan
+           id="tspan335">Eine vergleichende oder statische Probe auf  passende </tspan></tspan><tspan
          x="368.55478"
          y="223.58139"
-         id="tspan565"><tspan
+         id="tspan345"><tspan
            style="stroke-width:0.265"
-           id="tspan564">Fertigkeiten stellt einen Schlagabtausch dar. Danach </tspan></tspan><tspan
+           id="tspan337">Fertigkeiten stellt einen Schlagabtausch dar. Danach </tspan></tspan><tspan
          x="368.55478"
          y="226.40361"
-         id="tspan567"><tspan
+         id="tspan347"><tspan
            style="stroke-width:0.265"
-           id="tspan566">darf kann aufgeben, fliehen (Probe) oder weiter </tspan></tspan><tspan
+           id="tspan346">darf kann aufgeben, fliehen (Probe) oder weiter </tspan></tspan><tspan
          x="368.55478"
          y="229.22583"
-         id="tspan573"><tspan
+         id="tspan349"><tspan
            style="stroke-width:0.265"
-           id="tspan568">kämpfen.
+           id="tspan348">kämpfen.
 </tspan></tspan><tspan
          x="368.55478"
          y="232.04805"
-         id="tspan577"><tspan
+         id="tspan352"><tspan
            style="stroke-width:0.265"
-           id="tspan576">
+           id="tspan350">
 </tspan></tspan><tspan
          x="368.55478"
          y="234.87027"
-         id="tspan586"><tspan
+         id="tspan354"><tspan
            style="stroke-width:0.265"
-           id="tspan578">Der Überlegene darf den Effekt in Schaden umwandeln.
+           id="tspan353">Der Überlegene darf den Effekt in Schaden umwandeln.
 </tspan></tspan><tspan
          x="368.55478"
          y="237.69249"
-         id="tspan599"><tspan
+         id="tspan356"><tspan
            style="stroke-width:0.265"
-           id="tspan587">
+           id="tspan355">
 </tspan></tspan><tspan
          x="368.55478"
          y="240.51471"
-         id="tspan605"><tspan
+         id="tspan358"><tspan
            style="stroke-width:0.265"
-           id="tspan602">Wer gleichzeitig mehrere Gegner bekämpft, für den ist </tspan></tspan><tspan
+           id="tspan357">Wer gleichzeitig mehrere Gegner bekämpft, für den ist </tspan></tspan><tspan
          x="368.55478"
          y="243.33693"
-         id="tspan609"><tspan
+         id="tspan360"><tspan
            style="stroke-width:0.265"
-           id="tspan608">die zweite Probe um 2, die dritte um 4 und die vierte um 6 </tspan></tspan><tspan
+           id="tspan359">die zweite Probe um 2, die dritte um 4 und die vierte um 6 </tspan></tspan><tspan
          x="368.55478"
          y="246.15915"
-         id="tspan611"><tspan
+         id="tspan362"><tspan
            style="stroke-width:0.265"
-           id="tspan610">erschwert. Deckung reduziert die Zahl möglicher </tspan></tspan><tspan
+           id="tspan361">erschwert. Deckung reduziert die Zahl möglicher </tspan></tspan><tspan
          x="368.55478"
          y="248.98137"
-         id="tspan623"><tspan
+         id="tspan364"><tspan
            style="stroke-width:0.265"
-           id="tspan622">Gegner.
+           id="tspan363">Gegner.
 </tspan></tspan><tspan
          x="368.55478"
          y="251.80359"
-         id="tspan625"><tspan
+         id="tspan366"><tspan
            style="stroke-width:0.265"
-           id="tspan624">
+           id="tspan365">
 </tspan></tspan><tspan
          x="368.55478"
          y="254.62581"
-         id="tspan628"><tspan
+         id="tspan369"><tspan
            style="stroke-width:0.265"
-           id="tspan626">Fernkampf: Vergleichende Probe gegen Wahrnehmung/</tspan></tspan><tspan
+           id="tspan368">Fernkampf: Vergleichende Probe gegen Wahrnehmung/</tspan></tspan><tspan
          x="368.55478"
          y="257.44803"
-         id="tspan630"><tspan
+         id="tspan374"><tspan
            style="stroke-width:0.265"
-           id="tspan629">Gewandheit/Athletik.</tspan></tspan></text>
+           id="tspan371">Gewandheit/Athletik.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3475,28 +3480,28 @@
        transform="translate(0,36.043742)"><tspan
          x="368.55478"
          y="156.821"
-         id="tspan632"><tspan
+         id="tspan376"><tspan
            style="stroke-width:0.265"
-           id="tspan631">Zwei Qualitäten werden miteinander verglichen. Die </tspan></tspan><tspan
+           id="tspan375">Zwei Qualitäten werden miteinander verglichen. Die </tspan></tspan><tspan
          x="368.55478"
          y="159.64322"
-         id="tspan634"><tspan
+         id="tspan381"><tspan
            style="stroke-width:0.265"
-           id="tspan633">höhere gewinnt.
+           id="tspan379">höhere gewinnt.
 </tspan></tspan><tspan
          x="368.55478"
          y="162.46544"
-         id="tspan636"><tspan
+         id="tspan383"><tspan
            style="stroke-width:0.265"
-           id="tspan635">
+           id="tspan382">
 </tspan></tspan><tspan
          x="368.55478"
          y="165.28766"
-         id="tspan644"><tspan
+         id="tspan386"><tspan
            style="font-weight:bold"
-           id="tspan637">Effekt</tspan><tspan
+           id="tspan384">Effekt</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan638"> = Qualität 1 - Qualität 2
+           id="tspan385"> = Qualität 1 - Qualität 2
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -3518,63 +3523,63 @@
        transform="translate(79.45661,147.24108)"><tspan
          x="368.55478"
          y="174.04028"
-         id="tspan646"><tspan
+         id="tspan388"><tspan
            style="stroke-width:0.265"
-           id="tspan645">Potenziale und Qualitäten können miteinander </tspan></tspan><tspan
+           id="tspan387">Potenziale und Qualitäten können miteinander </tspan></tspan><tspan
          x="368.55478"
          y="176.8625"
-         id="tspan648"><tspan
+         id="tspan390"><tspan
            style="stroke-width:0.265"
-           id="tspan647">verschmolzen werden.
+           id="tspan389">verschmolzen werden.
 </tspan></tspan><tspan
          x="368.55478"
          y="179.68472"
-         id="tspan651"><tspan
+         id="tspan392"><tspan
            style="stroke-width:0.265"
-           id="tspan650">
+           id="tspan391">
 </tspan></tspan><tspan
          x="368.55478"
          y="182.50694"
-         id="tspan656"><tspan
+         id="tspan399"><tspan
            style="font-weight:bold"
-           id="tspan653">Kombinationsprobe:</tspan><tspan
+           id="tspan393">Kombinationsprobe:</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan655"> Verschmelzung bei einer Person
+           id="tspan398"> Verschmelzung bei einer Person
 </tspan></tspan><tspan
          x="368.55478"
          y="185.32916"
-         id="tspan662"><tspan
+         id="tspan419"><tspan
            style="font-weight:bold"
-           id="tspan657">Gruppenproben:</tspan><tspan
+           id="tspan400">Gruppenproben:</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan658"> Verschmelzung zwischen </tspan></tspan><tspan
+           id="tspan410"> Verschmelzung zwischen </tspan></tspan><tspan
          x="368.55478"
          y="188.15138"
-         id="tspan665"><tspan
+         id="tspan421"><tspan
            style="stroke-width:0.265"
-           id="tspan664">verschiedenen Personen
+           id="tspan420">verschiedenen Personen
 </tspan></tspan><tspan
          x="368.55478"
          y="190.9736"
-         id="tspan667"><tspan
+         id="tspan423"><tspan
            style="stroke-width:0.265"
-           id="tspan666">
+           id="tspan422">
 </tspan></tspan><tspan
          x="368.55478"
          y="193.79582"
-         id="tspan671"><tspan
+         id="tspan426"><tspan
            style="stroke-width:0.265"
-           id="tspan669">Verschmelzung kann z.B. geschehen durch: Summe, </tspan></tspan><tspan
+           id="tspan424">Verschmelzung kann z.B. geschehen durch: Summe, </tspan></tspan><tspan
          x="368.55478"
          y="196.61804"
-         id="tspan673"><tspan
+         id="tspan429"><tspan
            style="stroke-width:0.265"
-           id="tspan672">Mittelwert, Minimum, Maximum oder Plus 1 (Höchster </tspan></tspan><tspan
+           id="tspan427">Mittelwert, Minimum, Maximum oder Plus 1 (Höchster </tspan></tspan><tspan
          x="368.55478"
          y="199.44026"
-         id="tspan677"><tspan
+         id="tspan431"><tspan
            style="stroke-width:0.265"
-           id="tspan674">Wert + Anzahl - 1)</tspan></tspan></text>
+           id="tspan430">Wert + Anzahl - 1)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3633,21 +3638,21 @@
        transform="translate(146.13885,66.477208)"><tspan
          x="368.57446"
          y="268.51733"
-         id="tspan678">Unterzähliges Gespann: Kombinationsprobe Summe
+         id="tspan433">Unterzähliges Gespann: Kombinationsprobe Summe
 </tspan><tspan
          x="368.57446"
          y="272.04515"
-         id="tspan679">Überzähliges Gespann: Kombinationsprobe Mittelwert </tspan><tspan
+         id="tspan434">Überzähliges Gespann: Kombinationsprobe Mittelwert </tspan><tspan
          x="368.57446"
          y="275.64624"
-         id="tspan690">mal ( #Gegner + ½ ⨯ #Überzählige )
+         id="tspan435">mal ( #Gegner + ½ ⨯ #Überzählige )
 </tspan><tspan
          x="368.57446"
          y="279.17403"
-         id="tspan691">Beide Gespanne dürfen je die Hälfte des erzeugten </tspan><tspan
+         id="tspan436">Beide Gespanne dürfen je die Hälfte des erzeugten </tspan><tspan
          x="368.57446"
          y="282.70183"
-         id="tspan692">Schadens auf die Unterlegenen verteilen.</tspan></text>
+         id="tspan437">Schadens auf die Unterlegenen verteilen.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3901,45 +3906,45 @@
        transform="translate(0,21.738516)"><tspan
          x="368.58688"
          y="239.50671"
-         id="tspan693">Die Gesundheit entspricht, wenn man unverletzt ist,  </tspan><tspan
+         id="tspan438">Die Gesundheit entspricht, wenn man unverletzt ist,  </tspan><tspan
          x="368.58688"
          y="242.32893"
-         id="tspan694">dem Wert für Kraft. 
+         id="tspan439">dem Wert für Kraft. 
 </tspan><tspan
          x="368.58688"
          y="245.15115"
-         id="tspan695">
+         id="tspan440">
 </tspan><tspan
          x="368.58688"
          y="247.97337"
-         id="tspan696">Verletzungen reduzieren die Gesundheit um  deren </tspan><tspan
+         id="tspan441">Verletzungen reduzieren die Gesundheit um  deren </tspan><tspan
          x="368.58688"
          y="250.79559"
-         id="tspan697">Stufe. Fällt sie auf Null ist man tot. Fällt die Gesundheit </tspan><tspan
+         id="tspan442">Stufe. Fällt sie auf Null ist man tot. Fällt die Gesundheit </tspan><tspan
          x="368.58688"
          y="253.61781"
-         id="tspan698">auf die Wundschwellen,  erhält man Abzüge auf </tspan><tspan
+         id="tspan443">auf die Wundschwellen,  erhält man Abzüge auf </tspan><tspan
          x="368.58688"
          y="256.44003"
-         id="tspan699">körperliche Fertigkeiten.
+         id="tspan444">körperliche Fertigkeiten.
 </tspan><tspan
          x="368.58688"
          y="259.26225"
-         id="tspan700">
+         id="tspan445">
 </tspan><tspan
          x="368.58688"
          y="262.08448"
-         id="tspan701">Eine Probe auf Heilkunst darf einmal pro Spielabend </tspan><tspan
+         id="tspan447">Eine Probe auf Heilkunst darf einmal pro Spielabend </tspan><tspan
          x="368.58688"
          y="264.98001"
-         id="tspan702">durchgeführt werden, ist um 2 ⨯ Stufe + 4 erschwert </tspan><tspan
+         id="tspan453">durchgeführt werden, ist um 2 ⨯ Stufe + 4 erschwert </tspan><tspan
          x="368.58688"
          y="267.80223"
-         id="tspan703">und reduziert die Stufe um einen Punkt.
+         id="tspan454">und reduziert die Stufe um einen Punkt.
 </tspan><tspan
          x="368.58688"
          y="270.62446"
-         id="tspan704">
+         id="tspan455">
 </tspan></text>
     <text
        xml:space="preserve"
@@ -4082,7 +4087,7 @@
        transform="translate(-1.0583333,9.7585597)"><tspan
          x="37.450947"
          y="215.27548"
-         id="tspan705">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
+         id="tspan457">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:98.3771;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4092,10 +4097,10 @@
        transform="translate(3.7041668,-1.5875)"><tspan
          x="488.02557"
          y="34.256241"
-         id="tspan706">Beschreibe die Quelle der magischen Kraft, die verwendete Technik und  die </tspan><tspan
+         id="tspan458">Beschreibe die Quelle der magischen Kraft, die verwendete Technik und  die </tspan><tspan
          x="488.02557"
          y="37.784019"
-         id="tspan707">Art der Konsequenzen des Zauberns für den Zaubernden.</tspan></text>
+         id="tspan459">Art der Konsequenzen des Zauberns für den Zaubernden.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:131.282;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4105,10 +4110,10 @@
        transform="translate(0,-1.5875)"><tspan
          x="482.23108"
          y="150.22459"
-         id="tspan708">Beschreibe möglichst detailliert Wirkung und eventuell Wirkungsdauer, Zauberdauer und Schwere </tspan><tspan
+         id="tspan460">Beschreibe möglichst detailliert Wirkung und eventuell Wirkungsdauer, Zauberdauer und Schwere </tspan><tspan
          x="482.23108"
          y="153.75238"
-         id="tspan709">der Konsequenzen des Zaubers. Abwandlungen sind möglich und erhöhen die Schwierigkeit.</tspan></text>
+         id="tspan461">der Konsequenzen des Zaubers. Abwandlungen sind möglich und erhöhen die Schwierigkeit.</tspan></text>
     <g
        id="g1299"
        transform="translate(0.10252853,-236.43008)">
@@ -4361,10 +4366,10 @@
        transform="translate(0,-209.51091)"><tspan
          x="368.58688"
          y="239.50671"
-         id="tspan710">Die Startstufe ist 7. Entsprechend können 28 </tspan><tspan
+         id="tspan462">Die Startstufe ist 7. Entsprechend können 28 </tspan><tspan
          x="368.58688"
          y="242.32893"
-         id="tspan711">Erfahrungspunkte zu Spielbeginn verteilt werden.</tspan></text>
+         id="tspan463">Erfahrungspunkte zu Spielbeginn verteilt werden.</tspan></text>
     <g
        id="g61"
        transform="translate(2.6458335,14.287503)">
@@ -4388,44 +4393,44 @@
          transform="translate(228.08084,-199.95177)"><tspan
            x="368.58688"
            y="239.50671"
-           id="tspan712">Die Gewichtung limitiert die Anzahl der </tspan><tspan
+           id="tspan465">Die Gewichtung limitiert die Anzahl der </tspan><tspan
            x="368.58688"
            y="242.32893"
-           id="tspan713">verfügbaren Wirkungen:
+           id="tspan466">verfügbaren Wirkungen:
 </tspan><tspan
            x="368.58688"
            y="245.15115"
-           id="tspan714">
+           id="tspan467">
 </tspan><tspan
            x="368.58688"
            y="247.97337"
-           id="tspan715">1: Eine Wirkung pro Fertigkeitspunkt
+           id="tspan468">1: Eine Wirkung pro Fertigkeitspunkt
 </tspan><tspan
            x="368.58688"
            y="250.79559"
-           id="tspan716">2: Drei Wirkungen pro Fertigkeitspunkt
+           id="tspan469">2: Drei Wirkungen pro Fertigkeitspunkt
 </tspan><tspan
            x="368.58688"
            y="253.61781"
-           id="tspan717">3: Sieben Wirkungen pro Fertigkeitspunkt
+           id="tspan470">3: Sieben Wirkungen pro Fertigkeitspunkt
 </tspan><tspan
            x="368.58688"
            y="256.44003"
-           id="tspan718">4: Freizauberer
+           id="tspan471">4: Freizauberer
 </tspan><tspan
            x="368.58688"
            y="259.26225"
-           id="tspan719">
+           id="tspan472">
 </tspan><tspan
            x="368.58688"
            y="262.08448"
-           id="tspan720">Je höher die Gewichtung desto mehr </tspan><tspan
+           id="tspan473">Je höher die Gewichtung desto mehr </tspan><tspan
            x="368.58688"
            y="264.90672"
-           id="tspan721">Erfahrungspunkte müssen für einen </tspan><tspan
+           id="tspan474">Erfahrungspunkte müssen für einen </tspan><tspan
            x="368.58688"
            y="267.72895"
-           id="tspan722">Fertigkeitspunkt investiert werden.</tspan></text>
+           id="tspan475">Fertigkeitspunkt investiert werden.</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -4447,37 +4452,37 @@
        transform="translate(230.72673,-145.71933)"><tspan
          x="368.58688"
          y="239.50671"
-         id="tspan723">Konsequenzen in Höhe von
+         id="tspan476">Konsequenzen in Höhe von
 </tspan><tspan
          x="368.58688"
          y="242.32893"
-         id="tspan724">
+         id="tspan477">
 </tspan><tspan
          x="368.58688"
          y="245.22444"
-         id="tspan728"><tspan
+         id="tspan485"><tspan
            style="font-weight:bold"
-           id="tspan725">Fertigkeitswert </tspan><tspan
+           id="tspan481">Fertigkeitswert </tspan><tspan
            style="font-weight:bold"
-           id="tspan726">⨯</tspan><tspan
+           id="tspan482">⨯</tspan><tspan
            style="font-weight:bold"
-           id="tspan727"> Gewichtung
+           id="tspan484"> Gewichtung
 </tspan></tspan><tspan
          x="368.58688"
          y="248.04666"
-         id="tspan730"><tspan
+         id="tspan503"><tspan
            style="font-weight:bold"
-           id="tspan729">
+           id="tspan502">
 </tspan></tspan><tspan
          x="368.58688"
          y="250.86888"
-         id="tspan731">sind ohne Weiteres verkraftbar. Darüber </tspan><tspan
+         id="tspan504">sind ohne Weiteres verkraftbar. Darüber </tspan><tspan
          x="368.58688"
          y="253.6911"
-         id="tspan732">hinaus gelten sie als Malus für alle </tspan><tspan
+         id="tspan507">hinaus gelten sie als Malus für alle </tspan><tspan
          x="368.58688"
          y="256.51332"
-         id="tspan733">Fertigkeiten aus dem Bereich Geist.</tspan></text>
+         id="tspan508">Fertigkeiten aus dem Bereich Geist.</tspan></text>
     <g
        id="g132"
        transform="translate(9.5250005)">
@@ -4501,12 +4506,12 @@
          transform="translate(221.20167,-199.95177)"><tspan
            x="368.58688"
            y="239.50671"
-           id="tspan735">Trage die Fertigkeit unter <tspan
+           id="tspan511">Trage die Fertigkeit unter <tspan
    style="font-weight:bold"
-   id="tspan734">Extra</tspan> ein. Ihr </tspan><tspan
+   id="tspan510">Extra</tspan> ein. Ihr </tspan><tspan
            x="368.58688"
            y="242.32893"
-           id="tspan736">Startwert beträgt 4.</tspan></text>
+           id="tspan514">Startwert beträgt 4.</tspan></text>
     </g>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
