@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.3401721"
-     inkscape:cx="448.07679"
-     inkscape:cy="297.34988"
+     inkscape:zoom="0.94764476"
+     inkscape:cx="3875.3974"
+     inkscape:cy="327.65443"
      inkscape:window-width="1800"
      inkscape:window-height="1096"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g487"
+     inkscape:current-layer="layer2"
      showguides="true"
      showgrid="false">
     <sodipodi:guide
@@ -90,6 +90,11 @@
        id="page532"
        margin="0"
        bleed="0" />
+    <sodipodi:guide
+       position="618.41668,8.3105643"
+       orientation="0,-1"
+       id="guide174"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -474,63 +479,63 @@
        transform="translate(79.45661,147.24108)"><tspan
          x="368.55478"
          y="174.04028"
-         id="tspan171"><tspan
+         id="tspan165"><tspan
            style="stroke-width:0.265"
-           id="tspan170">Potenziale und Qualitäten können miteinander </tspan></tspan><tspan
+           id="tspan135">Potenziale und Qualitäten können miteinander </tspan></tspan><tspan
          x="368.55478"
          y="176.8625"
-         id="tspan173"><tspan
+         id="tspan171"><tspan
            style="stroke-width:0.265"
-           id="tspan172">verschmolzen werden.
+           id="tspan170">verschmolzen werden.
 </tspan></tspan><tspan
          x="368.55478"
          y="179.68472"
-         id="tspan175"><tspan
+         id="tspan173"><tspan
            style="stroke-width:0.265"
-           id="tspan174">
+           id="tspan172">
 </tspan></tspan><tspan
          x="368.55478"
          y="182.50694"
-         id="tspan178"><tspan
+         id="tspan176"><tspan
            style="font-weight:bold"
-           id="tspan176">Kombinationsprobe:</tspan><tspan
+           id="tspan174">Kombinationsprobe:</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan177"> Verschmelzung bei einer Person
+           id="tspan175"> Verschmelzung bei einer Person
 </tspan></tspan><tspan
          x="368.55478"
          y="185.32916"
-         id="tspan181"><tspan
+         id="tspan179"><tspan
            style="font-weight:bold"
-           id="tspan179">Gruppenproben:</tspan><tspan
+           id="tspan177">Gruppenproben:</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan180"> Verschmelzung zwischen </tspan></tspan><tspan
+           id="tspan178"> Verschmelzung zwischen </tspan></tspan><tspan
          x="368.55478"
          y="188.15138"
-         id="tspan183"><tspan
+         id="tspan181"><tspan
            style="stroke-width:0.265"
-           id="tspan182">verschiedenen Personen
+           id="tspan180">verschiedenen Personen
 </tspan></tspan><tspan
          x="368.55478"
          y="190.9736"
-         id="tspan185"><tspan
+         id="tspan183"><tspan
            style="stroke-width:0.265"
-           id="tspan184">
+           id="tspan182">
 </tspan></tspan><tspan
          x="368.55478"
          y="193.79582"
-         id="tspan187"><tspan
+         id="tspan185"><tspan
            style="stroke-width:0.265"
-           id="tspan186">Verschmelzung kann z.B. geschehen durch: Summe, </tspan></tspan><tspan
+           id="tspan184">Verschmelzung kann z.B. geschehen durch: Summe, </tspan></tspan><tspan
          x="368.55478"
          y="196.61804"
-         id="tspan189"><tspan
+         id="tspan187"><tspan
            style="stroke-width:0.265"
-           id="tspan188">Mittelwert, Minimum, Maximum oder Plus 1 (Höchster </tspan></tspan><tspan
+           id="tspan186">Mittelwert, Minimum, Maximum oder Plus 1 (Höchster </tspan></tspan><tspan
          x="368.55478"
          y="199.44026"
-         id="tspan191"><tspan
+         id="tspan189"><tspan
            style="stroke-width:0.265"
-           id="tspan190">Wert + Anzahl - 1)</tspan></tspan></text>
+           id="tspan188">Wert + Anzahl - 1)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -556,21 +561,21 @@
        transform="translate(146.13885,66.477208)"><tspan
          x="368.57446"
          y="268.51733"
-         id="tspan192">Unterzähliges Gespann: Kombinationsprobe Summe
+         id="tspan190">Unterzähliges Gespann: Kombinationsprobe Summe
 </tspan><tspan
          x="368.57446"
          y="272.04515"
-         id="tspan193">Überzähliges Gespann: Kombinationsprobe Mittelwert </tspan><tspan
+         id="tspan191">Überzähliges Gespann: Kombinationsprobe Mittelwert </tspan><tspan
          x="368.57446"
          y="275.64624"
-         id="tspan194">mal ( #Gegner + ½ ⨯ #Überzählige )
+         id="tspan192">mal ( #Gegner + ½ ⨯ #Überzählige )
 </tspan><tspan
          x="368.57446"
          y="279.17403"
-         id="tspan195">Beide Gespanne dürfen je die Hälfte des erzeugten </tspan><tspan
+         id="tspan193">Beide Gespanne dürfen je die Hälfte des erzeugten </tspan><tspan
          x="368.57446"
          y="282.70183"
-         id="tspan196">Schadens auf die Unterlegenen verteilen.</tspan></text>
+         id="tspan194">Schadens auf die Unterlegenen verteilen.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -741,20 +746,20 @@
        transform="translate(1632.2843,38.99329)"><tspan
          x="368.55478"
          y="110.1188"
-         id="tspan198"><tspan
+         id="tspan196"><tspan
            style="stroke-width:0.265"
-           id="tspan197">Betreffen einen Teilbereich, der dadurch  +2/-4 erhält </tspan></tspan><tspan
+           id="tspan195">Betreffen einen Teilbereich, der dadurch  +2/-4 erhält </tspan></tspan><tspan
          x="368.55478"
          y="112.94101"
-         id="tspan200"><tspan
+         id="tspan198"><tspan
            style="stroke-width:0.265"
-           id="tspan199">aber den Wert der  Fähigkeit um eins reduziert/erhöht. 
+           id="tspan197">aber den Wert der  Fähigkeit um eins reduziert/erhöht. 
 </tspan></tspan><tspan
          x="368.55478"
          y="115.76323"
-         id="tspan202"><tspan
+         id="tspan200"><tspan
            style="stroke-width:0.265"
-           id="tspan201">
+           id="tspan199">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -776,36 +781,36 @@
        transform="translate(1632.2843,46.924772)"><tspan
          x="368.55478"
          y="77.84803"
-         id="tspan204"><tspan
+         id="tspan202"><tspan
            style="stroke-width:0.265"
-           id="tspan203">Für jede Fertigkeit muss es mindestens eine andere </tspan></tspan><tspan
+           id="tspan201">Für jede Fertigkeit muss es mindestens eine andere </tspan></tspan><tspan
          x="368.55478"
          y="80.670246"
-         id="tspan206"><tspan
+         id="tspan204"><tspan
            style="stroke-width:0.265"
-           id="tspan205">Fertigkeit geben, auf die ein Punkt weniger verteilt </tspan></tspan><tspan
+           id="tspan203">Fertigkeit geben, auf die ein Punkt weniger verteilt </tspan></tspan><tspan
          x="368.55478"
          y="83.492466"
-         id="tspan208"><tspan
+         id="tspan206"><tspan
            style="stroke-width:0.265"
-           id="tspan207">worden ist.
+           id="tspan205">worden ist.
 </tspan></tspan><tspan
          x="368.55478"
          y="86.314686"
-         id="tspan210"><tspan
+         id="tspan208"><tspan
            style="stroke-width:0.265"
-           id="tspan209">
+           id="tspan207">
 </tspan></tspan><tspan
          x="368.55478"
          y="89.136906"
-         id="tspan212"><tspan
+         id="tspan210"><tspan
            style="stroke-width:0.265"
-           id="tspan211">Eine Fertigkeit mit Stärke zählt für die Säulenregel </tspan></tspan><tspan
+           id="tspan209">Eine Fertigkeit mit Stärke zählt für die Säulenregel </tspan></tspan><tspan
          x="368.55478"
          y="91.959126"
-         id="tspan214"><tspan
+         id="tspan212"><tspan
            style="stroke-width:0.265"
-           id="tspan213">einen Punkt mehr als ihr Wert.</tspan></tspan></text>
+           id="tspan211">einen Punkt mehr als ihr Wert.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:57.4343;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -815,53 +820,53 @@
        transform="translate(1632.2843,22.870504)"><tspan
          x="368.55478"
          y="31.608337"
-         id="tspan216"><tspan
+         id="tspan214"><tspan
            style="stroke-width:0.265"
-           id="tspan215">Die erhaltenen Erfahrungs-Punkte können auf die </tspan></tspan><tspan
+           id="tspan213">Die erhaltenen Erfahrungs-Punkte können auf die </tspan></tspan><tspan
          x="368.55478"
          y="34.430558"
-         id="tspan218"><tspan
+         id="tspan216"><tspan
            style="stroke-width:0.265"
-           id="tspan217">Fertigkeiten vergeben werden. Der Wert ergibt sich aus </tspan></tspan><tspan
+           id="tspan215">Fertigkeiten vergeben werden. Der Wert ergibt sich aus </tspan></tspan><tspan
          x="368.55478"
          y="37.252777"
-         id="tspan220"><tspan
+         id="tspan218"><tspan
            style="stroke-width:0.265"
-           id="tspan219">den vergebenen Punkten plus 4.
+           id="tspan217">den vergebenen Punkten plus 4.
 </tspan></tspan><tspan
          x="368.55478"
          y="40.074997"
-         id="tspan222"><tspan
+         id="tspan220"><tspan
            style="stroke-width:0.265"
-           id="tspan221">
+           id="tspan219">
 </tspan></tspan><tspan
          x="368.55478"
          y="42.897217"
-         id="tspan224"><tspan
+         id="tspan222"><tspan
            style="stroke-width:0.265"
-           id="tspan223">Ist eine Stärke/Schwäche vorhanden wird außerdem </tspan></tspan><tspan
+           id="tspan221">Ist eine Stärke/Schwäche vorhanden wird außerdem </tspan></tspan><tspan
          x="368.55478"
          y="45.719437"
-         id="tspan226"><tspan
+         id="tspan224"><tspan
            style="stroke-width:0.265"
-           id="tspan225">ein Punkt abgezogen/addiert.
+           id="tspan223">ein Punkt abgezogen/addiert.
 </tspan></tspan><tspan
          x="368.55478"
          y="48.541657"
-         id="tspan228"><tspan
+         id="tspan226"><tspan
            style="stroke-width:0.265"
-           id="tspan227">
+           id="tspan225">
 </tspan></tspan><tspan
          x="368.55478"
          y="51.363877"
-         id="tspan231"><tspan
+         id="tspan228"><tspan
            style="stroke-width:0.265"
-           id="tspan229">Negative Punkte können zu Spielbeginn vergeben </tspan></tspan><tspan
+           id="tspan227">Negative Punkte können zu Spielbeginn vergeben </tspan></tspan><tspan
          x="368.55478"
          y="54.186097"
-         id="tspan233"><tspan
+         id="tspan231"><tspan
            style="stroke-width:0.265"
-           id="tspan232">werden und müssen im Profil begründet werden.</tspan></tspan></text>
+           id="tspan229">werden und müssen im Profil begründet werden.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -893,56 +898,56 @@
        transform="translate(1632.2843,37.637274)"><tspan
          x="368.55478"
          y="124.75311"
-         id="tspan235"><tspan
+         id="tspan233"><tspan
            style="stroke-width:0.265"
-           id="tspan234">Eine Fertigkeit wird modifiziert, randomisiert und dann </tspan></tspan><tspan
+           id="tspan232">Eine Fertigkeit wird modifiziert, randomisiert und dann </tspan></tspan><tspan
          x="368.55478"
          y="127.57533"
-         id="tspan237"><tspan
+         id="tspan235"><tspan
            style="stroke-width:0.265"
-           id="tspan236">mit einer Schwierigkeit verglichen.
+           id="tspan234">mit einer Schwierigkeit verglichen.
 </tspan></tspan><tspan
          x="368.55478"
          y="130.39755"
-         id="tspan239"><tspan
+         id="tspan237"><tspan
            style="stroke-width:0.265"
-           id="tspan238">
+           id="tspan236">
 </tspan></tspan><tspan
          x="368.55478"
          y="133.21977"
-         id="tspan242"><tspan
+         id="tspan240"><tspan
            style="font-weight:bold"
-           id="tspan240">Potenzial</tspan><tspan
+           id="tspan238">Potenzial</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan241"> = Fertigkeit + Boni - Mali
+           id="tspan239"> = Fertigkeit + Boni - Mali
 </tspan></tspan><tspan
          x="368.55478"
          y="136.04199"
-         id="tspan245"><tspan
+         id="tspan243"><tspan
            style="font-weight:bold"
-           id="tspan243">Qualität</tspan><tspan
+           id="tspan241">Qualität</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan244"> = Potenzial + Würfel (W6 - W6)
+           id="tspan242"> = Potenzial + Würfel (W6 - W6)
 </tspan></tspan><tspan
          x="368.55478"
          y="138.86421"
-         id="tspan248"><tspan
+         id="tspan246"><tspan
            style="font-weight:bold"
-           id="tspan246">Effekt</tspan><tspan
+           id="tspan244">Effekt</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan247"> = Qualität - Schwierigkeit
+           id="tspan245"> = Qualität - Schwierigkeit
 </tspan></tspan><tspan
          x="368.55478"
          y="141.68643"
-         id="tspan250"><tspan
+         id="tspan248"><tspan
            style="stroke-width:0.265"
-           id="tspan249">
+           id="tspan247">
 </tspan></tspan><tspan
          x="368.55478"
          y="144.50865"
-         id="tspan252"><tspan
+         id="tspan250"><tspan
            style="stroke-width:0.265"
-           id="tspan251">Bestanden, wenn Effekt größer oder gleich Null ist.</tspan></tspan></text>
+           id="tspan249">Bestanden, wenn Effekt größer oder gleich Null ist.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -963,80 +968,80 @@
        transform="translate(1632.2843,-7.8264861)"><tspan
          x="368.55478"
          y="220.75917"
-         id="tspan254"><tspan
+         id="tspan252"><tspan
            style="stroke-width:0.265"
-           id="tspan253">Eine vergleichende oder statische Probe auf  passende </tspan></tspan><tspan
+           id="tspan251">Eine vergleichende oder statische Probe auf  passende </tspan></tspan><tspan
          x="368.55478"
          y="223.58139"
-         id="tspan256"><tspan
+         id="tspan254"><tspan
            style="stroke-width:0.265"
-           id="tspan255">Fertigkeiten stellt einen Schlagabtausch dar. Danach </tspan></tspan><tspan
+           id="tspan253">Fertigkeiten stellt einen Schlagabtausch dar. Danach </tspan></tspan><tspan
          x="368.55478"
          y="226.40361"
-         id="tspan258"><tspan
+         id="tspan256"><tspan
            style="stroke-width:0.265"
-           id="tspan257">darf kann aufgeben, fliehen (Probe) oder weiter </tspan></tspan><tspan
+           id="tspan255">darf kann aufgeben, fliehen (Probe) oder weiter </tspan></tspan><tspan
          x="368.55478"
          y="229.22583"
-         id="tspan260"><tspan
+         id="tspan258"><tspan
            style="stroke-width:0.265"
-           id="tspan259">kämpfen.
+           id="tspan257">kämpfen.
 </tspan></tspan><tspan
          x="368.55478"
          y="232.04805"
-         id="tspan262"><tspan
+         id="tspan260"><tspan
            style="stroke-width:0.265"
-           id="tspan261">
+           id="tspan259">
 </tspan></tspan><tspan
          x="368.55478"
          y="234.87027"
-         id="tspan264"><tspan
+         id="tspan262"><tspan
            style="stroke-width:0.265"
-           id="tspan263">Der Überlegene darf den Effekt in Schaden umwandeln.
+           id="tspan261">Der Überlegene darf den Effekt in Schaden umwandeln.
 </tspan></tspan><tspan
          x="368.55478"
          y="237.69249"
-         id="tspan266"><tspan
+         id="tspan264"><tspan
            style="stroke-width:0.265"
-           id="tspan265">
+           id="tspan263">
 </tspan></tspan><tspan
          x="368.55478"
          y="240.51471"
-         id="tspan268"><tspan
+         id="tspan266"><tspan
            style="stroke-width:0.265"
-           id="tspan267">Wer gleichzeitig mehrere Gegner bekämpft, für den ist </tspan></tspan><tspan
+           id="tspan265">Wer gleichzeitig mehrere Gegner bekämpft, für den ist </tspan></tspan><tspan
          x="368.55478"
          y="243.33693"
-         id="tspan270"><tspan
+         id="tspan268"><tspan
            style="stroke-width:0.265"
-           id="tspan269">die zweite Probe um 2, die dritte um 4 und die vierte um 6 </tspan></tspan><tspan
+           id="tspan267">die zweite Probe um 2, die dritte um 4 und die vierte um 6 </tspan></tspan><tspan
          x="368.55478"
          y="246.15915"
-         id="tspan272"><tspan
+         id="tspan270"><tspan
            style="stroke-width:0.265"
-           id="tspan271">erschwert. Deckung reduziert die Zahl möglicher </tspan></tspan><tspan
+           id="tspan269">erschwert. Deckung reduziert die Zahl möglicher </tspan></tspan><tspan
          x="368.55478"
          y="248.98137"
-         id="tspan274"><tspan
+         id="tspan272"><tspan
            style="stroke-width:0.265"
-           id="tspan273">Gegner.
+           id="tspan271">Gegner.
 </tspan></tspan><tspan
          x="368.55478"
          y="251.80359"
-         id="tspan276"><tspan
+         id="tspan274"><tspan
            style="stroke-width:0.265"
-           id="tspan275">
+           id="tspan273">
 </tspan></tspan><tspan
          x="368.55478"
          y="254.62581"
-         id="tspan278"><tspan
+         id="tspan276"><tspan
            style="stroke-width:0.265"
-           id="tspan277">Fernkampf: Vergleichende Probe gegen Wahrnehmung/</tspan></tspan><tspan
+           id="tspan275">Fernkampf: Vergleichende Probe gegen Wahrnehmung/</tspan></tspan><tspan
          x="368.55478"
          y="257.44803"
-         id="tspan280"><tspan
+         id="tspan278"><tspan
            style="stroke-width:0.265"
-           id="tspan279">Gewandheit/Athletik.</tspan></tspan></text>
+           id="tspan277">Gewandheit/Athletik.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:57.4343;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1046,28 +1051,28 @@
        transform="translate(1632.2843,36.084046)"><tspan
          x="368.55478"
          y="156.821"
-         id="tspan282"><tspan
+         id="tspan280"><tspan
            style="stroke-width:0.265"
-           id="tspan281">Zwei Qualitäten werden miteinander verglichen. Die </tspan></tspan><tspan
+           id="tspan279">Zwei Qualitäten werden miteinander verglichen. Die </tspan></tspan><tspan
          x="368.55478"
          y="159.64322"
-         id="tspan284"><tspan
+         id="tspan282"><tspan
            style="stroke-width:0.265"
-           id="tspan283">höhere gewinnt.
+           id="tspan281">höhere gewinnt.
 </tspan></tspan><tspan
          x="368.55478"
          y="162.46544"
-         id="tspan286"><tspan
+         id="tspan284"><tspan
            style="stroke-width:0.265"
-           id="tspan285">
+           id="tspan283">
 </tspan></tspan><tspan
          x="368.55478"
          y="165.28766"
-         id="tspan289"><tspan
+         id="tspan287"><tspan
            style="font-weight:bold"
-           id="tspan287">Effekt</tspan><tspan
+           id="tspan285">Effekt</tspan><tspan
            style="stroke-width:0.265"
-           id="tspan288"> = Qualität 1 - Qualität 2
+           id="tspan286"> = Qualität 1 - Qualität 2
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -1133,327 +1138,121 @@
        transform="translate(1632.2843,21.778824)"><tspan
          x="368.58688"
          y="239.50671"
-         id="tspan290">Die Gesundheit entspricht, wenn man unverletzt ist,  </tspan><tspan
+         id="tspan288">Die Gesundheit entspricht, wenn man unverletzt ist,  </tspan><tspan
          x="368.58688"
          y="242.32893"
-         id="tspan291">dem Wert für Kraft. 
+         id="tspan289">dem Wert für Kraft. 
 </tspan><tspan
          x="368.58688"
          y="245.15115"
-         id="tspan292">
+         id="tspan290">
 </tspan><tspan
          x="368.58688"
          y="247.97337"
-         id="tspan293">Verletzungen reduzieren die Gesundheit um  deren </tspan><tspan
+         id="tspan291">Verletzungen reduzieren die Gesundheit um  deren </tspan><tspan
          x="368.58688"
          y="250.79559"
-         id="tspan294">Stufe. Fällt sie auf Null ist man tot. Fällt die Gesundheit </tspan><tspan
+         id="tspan292">Stufe. Fällt sie auf Null ist man tot. Fällt die Gesundheit </tspan><tspan
          x="368.58688"
          y="253.61781"
-         id="tspan295">auf die Wundschwellen,  erhält man Abzüge auf </tspan><tspan
+         id="tspan293">auf die Wundschwellen,  erhält man Abzüge auf </tspan><tspan
          x="368.58688"
          y="256.44003"
-         id="tspan296">körperliche Fertigkeiten.
+         id="tspan294">körperliche Fertigkeiten.
 </tspan><tspan
          x="368.58688"
          y="259.26225"
-         id="tspan297">
+         id="tspan295">
 </tspan><tspan
          x="368.58688"
          y="262.08448"
-         id="tspan298">Eine Probe auf Heilkunst darf einmal pro Spielabend </tspan><tspan
+         id="tspan296">Eine Probe auf Heilkunst darf einmal pro Spielabend </tspan><tspan
          x="368.58688"
          y="264.98001"
-         id="tspan299">durchgeführt werden, ist um 2 ⨯ Stufe + 4 erschwert </tspan><tspan
+         id="tspan297">durchgeführt werden, ist um 2 ⨯ Stufe + 4 erschwert </tspan><tspan
          x="368.58688"
          y="267.80223"
-         id="tspan301">und reduziert die Stufe um einen Punkt.
+         id="tspan298">und reduziert die Stufe um einen Punkt.
 </tspan><tspan
          x="368.58688"
          y="270.62446"
-         id="tspan302">
+         id="tspan299">
 </tspan></text>
-    <g
-       id="g545"
-       transform="translate(0,0.3526917)">
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999"
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999"
+       x="884.88147"
+       y="6.9511356"
+       id="text1146-3"><tspan
+         sodipodi:role="line"
+         id="tspan1146-5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
          x="884.88147"
-         y="6.598444"
-         id="text1146-3"><tspan
-           sodipodi:role="line"
-           id="tspan1146-5"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
-           x="884.88147"
-           y="6.598444">Dunkle Zeiten</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         y="6.9511356">Dunkle Zeiten</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="884.70367"
+       y="15.85574"
+       id="text5-6"><tspan
+         sodipodi:role="line"
+         id="tspan2-2"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
          x="884.70367"
-         y="15.503048"
-         id="text5-6"><tspan
-           sodipodi:role="line"
-           id="tspan2-2"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-           x="884.70367"
-           y="15.503048">Charakterbogen</tspan></text>
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267899;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 885.00002,20.240832 H 1085"
-         id="path5-9-4-4"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="15.85574">Charakterbogen</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267899;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 885.00002,20.593524 H 1085"
+       id="path5-9-4-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="884.73755"
+       y="32.803268"
+       id="text14-1"><tspan
+         sodipodi:role="line"
+         id="tspan5-2"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
          x="884.73755"
-         y="32.450577"
-         id="text14-1"><tspan
-           sodipodi:role="line"
-           id="tspan5-2"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-           x="884.73755"
-           y="32.450577">Profil</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="32.803268">Profil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1084.9647"
+       y="6.3535342"
+       id="text228-1"><tspan
+         sodipodi:role="line"
+         id="tspan228-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
          x="1084.9647"
-         y="6.0008426"
-         id="text228-1"><tspan
-           sodipodi:role="line"
-           id="tspan228-7"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
-           x="1084.9647"
-           y="6.0008426">www.landertal.de</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
-           x="1084.9647"
-           y="9.5286226"
-           id="tspan61-2">2025-12-03 (2)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="6.3535342">www.landertal.de</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
+         x="1084.9647"
+         y="9.8813143"
+         id="tspan61-2">2025-12-03 (2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="985.49738"
+       y="293.08063"
+       id="text228-1-2"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
          x="985.49738"
-         y="292.72794"
-         id="text228-1-2"><tspan
-           sodipodi:role="line"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
-           x="985.49738"
-           y="292.72794"
-           id="tspan61-2-2">1</tspan></text>
-      <g
-         id="g540">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="884.8222"
-           y="286.69635"
-           id="text207-8"><tspan
-             sodipodi:role="line"
-             id="tspan207-7"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="884.8222"
-             y="286.69635">Erfahrung</tspan></text>
-        <g
-           id="g1301-5"
-           transform="translate(882.11369,-1.1569384)"
-           style="display:inline">
-          <text
-             xml:space="preserve"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="41.482056"
-             y="287.46744"
-             id="text450-4"><tspan
-               sodipodi:role="line"
-               id="tspan450-8"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-               x="41.482056"
-               y="287.46744">Gesamt</tspan></text>
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect452-1"
-             width="10.590345"
-             height="6.4419084"
-             x="60.540405"
-             y="282.36749" />
-        </g>
-        <g
-           id="g1302-2"
-           transform="translate(885.58093,-1.1685762)"
-           style="display:inline">
-          <text
-             xml:space="preserve"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="71.621567"
-             y="287.46744"
-             id="text451-8"><tspan
-               sodipodi:role="line"
-               id="tspan451-9"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-               x="71.621567"
-               y="287.46744">Vergeben</tspan></text>
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect453-3"
-             width="10.590345"
-             height="6.4419084"
-             x="95.356377"
-             y="282.36749" />
-        </g>
-        <g
-           id="g1303-6"
-           transform="translate(889.87213,-1.1569384)"
-           style="display:inline">
-          <text
-             xml:space="preserve"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="105.61359"
-             y="287.46744"
-             id="text448-8"><tspan
-               sodipodi:role="line"
-               id="tspan448-0"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-               x="105.61359"
-               y="287.46744">Frei</tspan></text>
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect454-2"
-             width="10.590345"
-             height="6.4419084"
-             x="117.15591"
-             y="282.36749" />
-        </g>
-        <g
-           id="g1305-1"
-           transform="translate(840.9256,9.8908521)"
-           style="display:inline">
-          <text
-             xml:space="preserve"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             x="180.62544"
-             y="276.47607"
-             id="text452-0"><tspan
-               sodipodi:role="line"
-               id="tspan452-5"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-               x="180.62544"
-               y="276.47607">Stufe</tspan></text>
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect455-1"
-             width="10.590345"
-             height="6.4419084"
-             x="194.55069"
-             y="271.3197" />
-        </g>
-        <g
-           id="g1306-7"
-           transform="translate(878.69282,-1.1569384)"
-           style="display:inline">
-          <text
-             xml:space="preserve"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             x="171.30647"
-             y="287.52386"
-             id="text301-2"><tspan
-               sodipodi:role="line"
-               id="tspan301-4"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-               x="171.30647"
-               y="287.52386">Schicksal</tspan></text>
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect301-0"
-             width="10.590345"
-             height="6.4419084"
-             x="195.71684"
-             y="282.36749" />
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:175.241;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="293.08063"
+         id="tspan61-2-2">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:175.241;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="908.88123"
+       y="30.079912"
+       id="text3907-7"
+       transform="translate(-0.3250902,1.5122788)"><tspan
          x="908.88123"
          y="30.079912"
-         id="text3907-7"
-         transform="translate(-0.3250902,1.1595871)"><tspan
-           x="908.88123"
-           y="30.079912"
-           id="tspan303">Beschreibe den Charakter in ein paar Sätzen oder Stichworten zu Herkunft, Lebensweg, Persönlichkeit, Fähigkeiten und Erscheinung.</tspan></text>
-      <g
-         id="g315"
-         transform="matrix(1.0217776,0,0,1,-22.26554,0)">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="887.67462"
-           y="194.38254"
-           id="text16-9"><tspan
-             sodipodi:role="line"
-             id="tspan15-3"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="887.67462"
-             y="194.38254">Chronik</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="893.9646"
-           y="202.7142"
-           id="text46-6"><tspan
-             sodipodi:role="line"
-             id="tspan46-0"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="893.9646"
-             y="202.7142">Datum</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="918.79547"
-           y="202.7142"
-           id="text47-6"><tspan
-             sodipodi:role="line"
-             id="tspan47-2"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="918.79547"
-             y="202.7142">Erfahrung</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="999.62079"
-           y="202.64365"
-           id="text48-6"><tspan
-             sodipodi:role="line"
-             id="tspan48-1"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="999.62079"
-             y="202.64365">Queste</tspan></text>
-        <path
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 887.9286,206.123 h 195.7373"
-           id="path50-8"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 911.17547,197.40232 v 78.655"
-           id="path446-7"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 943.4867,197.40232 v 78.655"
-           id="path457-1"
-           sodipodi:nodetypes="cc" />
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:167.043;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="37.450947"
-           y="215.27548"
-           id="text3919-2"
-           transform="translate(891.44739,-23.060759)"><tspan
-             x="37.450947"
-             y="215.27548"
-             id="tspan304">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
-      </g>
-    </g>
+         id="tspan301">Beschreibe den Charakter in ein paar Sätzen oder Stichworten zu Herkunft, Lebensweg, Persönlichkeit, Fähigkeiten und Erscheinung.</tspan></text>
     <g
        id="g1299-1"
        transform="translate(1632.3868,-236.38977)"
@@ -1707,10 +1506,10 @@
        transform="translate(1632.2843,-209.4706)"><tspan
          x="368.58688"
          y="239.50671"
-         id="tspan305">Die Startstufe ist 7. Entsprechend können 28 </tspan><tspan
+         id="tspan302">Die Startstufe ist 7. Entsprechend können 28 </tspan><tspan
          x="368.58688"
          y="242.32893"
-         id="tspan306">Erfahrungspunkte zu Spielbeginn verteilt werden.</tspan></text>
+         id="tspan303">Erfahrungspunkte zu Spielbeginn verteilt werden.</tspan></text>
     <g
        id="g61-6"
        transform="translate(1502.1077,2.4256469)"
@@ -1735,44 +1534,44 @@
          transform="translate(228.08084,-199.95177)"><tspan
            x="368.58688"
            y="239.50671"
-           id="tspan307">Die Gewichtung limitiert die Anzahl der </tspan><tspan
+           id="tspan304">Die Gewichtung limitiert die Anzahl der </tspan><tspan
            x="368.58688"
            y="242.32893"
-           id="tspan308">verfügbaren Wirkungen:
+           id="tspan305">verfügbaren Wirkungen:
 </tspan><tspan
            x="368.58688"
            y="245.15115"
-           id="tspan309">
+           id="tspan306">
 </tspan><tspan
            x="368.58688"
            y="247.97337"
-           id="tspan310">1: Eine Wirkung pro Fertigkeitspunkt
+           id="tspan307">1: Eine Wirkung pro Fertigkeitspunkt
 </tspan><tspan
            x="368.58688"
            y="250.79559"
-           id="tspan311">2: Drei Wirkungen pro Fertigkeitspunkt
+           id="tspan308">2: Drei Wirkungen pro Fertigkeitspunkt
 </tspan><tspan
            x="368.58688"
            y="253.61781"
-           id="tspan312">3: Sieben Wirkungen pro Fertigkeitspunkt
+           id="tspan309">3: Sieben Wirkungen pro Fertigkeitspunkt
 </tspan><tspan
            x="368.58688"
            y="256.44003"
-           id="tspan313">4: Freizauberer
+           id="tspan310">4: Freizauberer
 </tspan><tspan
            x="368.58688"
            y="259.26225"
-           id="tspan314">
+           id="tspan311">
 </tspan><tspan
            x="368.58688"
            y="262.08448"
-           id="tspan315">Je höher die Gewichtung desto mehr </tspan><tspan
+           id="tspan312">Je höher die Gewichtung desto mehr </tspan><tspan
            x="368.58688"
            y="264.90672"
-           id="tspan316">Erfahrungspunkte müssen für einen </tspan><tspan
+           id="tspan313">Erfahrungspunkte müssen für einen </tspan><tspan
            x="368.58688"
            y="267.72895"
-           id="tspan317">Fertigkeitspunkt investiert werden.</tspan></text>
+           id="tspan314">Fertigkeitspunkt investiert werden.</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1794,37 +1593,37 @@
        transform="translate(1730.1898,-157.58118)"><tspan
          x="368.58688"
          y="239.50671"
-         id="tspan318">Konsequenzen in Höhe von
+         id="tspan315">Konsequenzen in Höhe von
 </tspan><tspan
          x="368.58688"
          y="242.32893"
-         id="tspan319">
+         id="tspan316">
 </tspan><tspan
          x="368.58688"
          y="245.22444"
-         id="tspan323"><tspan
+         id="tspan320"><tspan
            style="font-weight:bold"
-           id="tspan320">Fertigkeitswert </tspan><tspan
+           id="tspan317">Fertigkeitswert </tspan><tspan
            style="font-weight:bold"
-           id="tspan321">⨯</tspan><tspan
+           id="tspan318">⨯</tspan><tspan
            style="font-weight:bold"
-           id="tspan322"> Gewichtung
+           id="tspan319"> Gewichtung
 </tspan></tspan><tspan
          x="368.58688"
          y="248.04666"
-         id="tspan325"><tspan
+         id="tspan322"><tspan
            style="font-weight:bold"
-           id="tspan324">
+           id="tspan321">
 </tspan></tspan><tspan
          x="368.58688"
          y="250.86888"
-         id="tspan326">sind ohne Weiteres verkraftbar. Darüber </tspan><tspan
+         id="tspan323">sind ohne Weiteres verkraftbar. Darüber </tspan><tspan
          x="368.58688"
          y="253.6911"
-         id="tspan327">hinaus gelten sie als Malus für alle </tspan><tspan
+         id="tspan324">hinaus gelten sie als Malus für alle </tspan><tspan
          x="368.58688"
          y="256.51332"
-         id="tspan328">Fertigkeiten aus dem Bereich Geist.</tspan></text>
+         id="tspan325">Fertigkeiten aus dem Bereich Geist.</tspan></text>
     <g
        id="g132-8"
        transform="translate(1508.9869,-11.861853)"
@@ -1849,12 +1648,12 @@
          transform="translate(221.20167,-199.95177)"><tspan
            x="368.58688"
            y="239.50671"
-           id="tspan330">Trage die Fertigkeit unter <tspan
+           id="tspan327">Trage die Fertigkeit unter <tspan
    style="font-weight:bold"
-   id="tspan329">Extra</tspan> ein. Ihr </tspan><tspan
+   id="tspan326">Extra</tspan> ein. Ihr </tspan><tspan
            x="368.58688"
            y="242.32893"
-           id="tspan331">Startwert beträgt 4.</tspan></text>
+           id="tspan328">Startwert beträgt 4.</tspan></text>
     </g>
     <g
        id="g519"
@@ -2028,14 +1827,14 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-       x="1443.7843"
+       x="1472.359"
        y="17.225794"
        id="text142-7"><tspan
          sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-         x="1443.7843"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="1472.359"
          y="17.225794"
-         id="tspan169">Stärken +2, Schwächen -4, Ausrüstung, Beeinträchtigungen</tspan></text>
+         id="tspan169">Bemerkungen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2458,13 +2257,13 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="1105.2791"
-       y="29.579332"
+       y="140.70433"
        id="text15-7-3"><tspan
          sodipodi:role="line"
          id="tspan14-0-7"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
          x="1105.2791"
-         y="29.579332">Ausrüstung</tspan></text>
+         y="140.70433">Ausrüstung</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2480,69 +2279,12 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="1155.5035"
-       y="28.325911"
+       y="139.45091"
        id="text3826-9"><tspan
          sodipodi:role="line"
          x="1155.5035"
-         y="28.325911"
+         y="139.45091"
          id="tspan303-8">Bis zu drei Gegenstände mit Wert von Hab &amp; Gut. Für weniger wertvolle Dinge gilt keine Beschränkung.</tspan></text>
-    <g
-       id="g522"
-       transform="translate(-1.6569227,-12.883532)">
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1106.7498"
-         y="136.44749"
-         id="text16-9-4"><tspan
-           sodipodi:role="line"
-           id="tspan15-3-1"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-           x="1106.7498"
-           y="136.44749">Spezialausrüstung</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1259.8635"
-         y="144.77916"
-         id="text47-6-9"><tspan
-           sodipodi:role="line"
-           id="tspan47-2-8"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-           x="1259.8635"
-           y="144.77916">Teil-Fertigkeit (Bonus)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="1159.63"
-         y="144.7086"
-         id="text48-6-8"><tspan
-           sodipodi:role="line"
-           id="tspan48-1-5"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-           x="1159.63"
-           y="144.7086">Beschreibung</tspan></text>
-      <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267897;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 1106.7582,149.31014 h 199.9993"
-         id="path50-8-8"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 1250.6564,139.46727 v 58.86171"
-         id="path457-1-3"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:167.043;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="37.450947"
-         y="215.27548"
-         id="text3919-2-7"
-         transform="translate(1152.611,-80.058482)"><tspan
-           x="37.450947"
-           y="215.27548"
-           id="tspan332">Die Gesamt-Boni dürfen den halben Wert von Hab &amp; Gut nicht überschreiten.</tspan></text>
-    </g>
     <g
        id="g314"
        transform="translate(-147.35128,10.076309)">
@@ -2580,185 +2322,354 @@
            x="1252.334"
            y="-3.1322284">Dunkle Zeiten</tspan></text>
     </g>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1941.1117,145.52072 V 288.68944"
+       id="path457-1-3-1-0-7-6"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="1104.8472"
-       y="194.95419"
-       id="text3515-8"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="1104.9235"
+       y="123.27007"
+       id="text207-8"><tspan
          sodipodi:role="line"
-         id="tspan3513-1"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan207-7"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="1104.9235"
+         y="123.27007">Erfahrung</tspan></text>
+    <g
+       id="g1301-5"
+       transform="translate(1102.0361,-164.58323)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="41.482056"
+         y="287.46744"
+         id="text450-4"><tspan
+           sodipodi:role="line"
+           id="tspan450-8"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="41.482056"
+           y="287.46744">Gesamt</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect452-1"
+         width="10.590345"
+         height="6.4419084"
+         x="60.540405"
+         y="282.36749" />
+    </g>
+    <g
+       id="g175"
+       transform="translate(0,1.8651777)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
          x="1104.8472"
-         y="194.95419">Gesundheit</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:145.234;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="37.450947"
-       y="215.27548"
-       id="text3919-2-7-6-0"
-       transform="translate(1116.9294,-21.515451)"><tspan
+         y="222.01129"
+         id="text3515-8"><tspan
+           sodipodi:role="line"
+           id="tspan3513-1"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           x="1104.8472"
+           y="222.01129">Gesundheit</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:145.234;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          x="37.450947"
          y="215.27548"
-         id="tspan333">Überschreitet eine Verletzung eine Wundschwelle, entsteht eine Beeinträchtigung -1  in dieser Domäne.</tspan></text>
-    <path
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1105.1013,223.61142 h 199.9993"
-       id="path3529-4"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="1172.3645"
-       y="219.46873"
-       id="text3519-8"><tspan
-         sodipodi:role="line"
-         id="tspan3517-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         id="text3919-2-7-6-0"
+         transform="translate(1116.9294,5.541655)"><tspan
+           x="37.450947"
+           y="215.27548"
+           id="tspan329">Überschreitet eine Verletzung eine Wundschwelle, entsteht eine Beeinträchtigung -1  in dieser Domäne.</tspan></text>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1105.1013,239.55603 h 199.9993"
+         id="path3529-4"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          x="1172.3645"
-         y="219.46873">Beeinträchtigung</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;stroke-width:0.264999"
-       x="1123.9045"
-       y="207.73123"
-       id="text3727-5"><tspan
-         sodipodi:role="line"
-         id="tspan3729-6"
-         x="1123.9045"
-         y="207.73123">Wundschwellen</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.95;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="1170.7001"
-       y="198.46353"
-       id="text165-6-1-4"><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
-         x="1170.7001"
-         y="198.46353"
-         id="tspan165-6-0-9">Geist: Klugheit oder Wille / 3, Sozial: Ausstrahlung oder Befehlen / 3, Körper: Kraft / 3 </tspan></text>
-    <path
-       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1137.049,213.26138 V 282.799"
-       id="path457-1-3-1"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1248.9995,212.80604 V 282.799"
-       id="path457-1-3-1-0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="1114.756"
-       y="220.59761"
-       id="text3523-5-6"><tspan
-         sodipodi:role="line"
-         id="tspan3521-66-1"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-         x="1114.756"
-         y="220.59761">Datum</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="1265.7322"
-       y="220.59763"
-       id="text3523-5"><tspan
-         sodipodi:role="line"
-         id="tspan3521-66"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-         x="1265.7322"
-         y="220.59763">Domäne (Malus)</tspan></text>
+         y="235.41333"
+         id="text3519-8"><tspan
+           sodipodi:role="line"
+           id="tspan3517-0"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="1172.3645"
+           y="235.41333">Beeinträchtigung</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1132.2862,229.20599 v 48.37095"
+         id="path457-1-3-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1248.9995,228.75065 v 48.82629"
+         id="path457-1-3-1-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1280.7496,228.75065 v 48.82629"
+         id="path457-1-3-1-0-7"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="1113.6976"
+         y="236.54221"
+         id="text3523-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan3521-66-1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="1113.6976"
+           y="236.54221">Datum</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="1258.4717"
+         y="236.54222"
+         id="text3523-5"><tspan
+           sodipodi:role="line"
+           id="tspan3521-66"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="1258.4717"
+           y="236.54222">Domäne</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="1288.2103"
+         y="236.54222"
+         id="text3523-5-61"><tspan
+           sodipodi:role="line"
+           id="tspan3521-66-0"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="1288.2103"
+           y="236.54222">Malus</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;stroke-width:0.264999"
+         x="1104.9171"
+         y="285.92529"
+         id="text3727-5"><tspan
+           sodipodi:role="line"
+           id="tspan3729-6"
+           x="1104.9171"
+           y="285.92529">Wundschwellen</tspan></text>
+      <g
+         id="g172"
+         transform="translate(0,-0.61677591)">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="1181.314"
+           y="286.08743"
+           id="text450-4-6"><tspan
+             sodipodi:role="line"
+             id="tspan450-8-5"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+             x="1181.314"
+             y="286.08743">Geist</tspan></text>
+        <rect
+           style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect452-1-6"
+           width="10.590345"
+           height="6.4419084"
+           x="1183.5087"
+           y="280.98749" />
+      </g>
+      <g
+         id="g172-2"
+         style="display:inline"
+         transform="translate(44.892333,-0.61677591)">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="1181.314"
+           y="286.08743"
+           id="text450-4-6-0"><tspan
+             sodipodi:role="line"
+             id="tspan450-8-5-6"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+             x="1181.314"
+             y="286.08743">Sozial</tspan></text>
+        <rect
+           style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect452-1-6-8"
+           width="10.590345"
+           height="6.4419084"
+           x="1183.5087"
+           y="280.98749" />
+      </g>
+      <g
+         id="g172-4"
+         style="display:inline"
+         transform="translate(91.346767,-0.62841368)">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="1181.314"
+           y="286.08743"
+           id="text450-4-6-9"><tspan
+             sodipodi:role="line"
+             id="tspan450-8-5-5"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+             x="1181.314"
+             y="286.08743">Körper</tspan></text>
+        <rect
+           style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect452-1-6-0"
+           width="10.590345"
+           height="6.4419084"
+           x="1183.5087"
+           y="280.98749" />
+      </g>
+    </g>
     <g
-       id="g546"
-       transform="translate(15.74335,-23.283342)">
-      <g
-         id="g526"
-         transform="translate(-17.531927,5.1081369)">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="1171.2271"
-           y="225.89937"
-           id="text124-0-4-2"><tspan
-             sodipodi:role="line"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1171.2271"
-             y="225.89937"
-             id="tspan124-0-1-6">Geist</tspan></text>
-        <g
-           id="g1302-2-9-6-8"
-           transform="translate(1088.3546,-62.255486)"
-           style="display:inline">
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect453-3-2-2-9"
-             width="13.500764"
-             height="8.5585613"
-             x="95.356377"
-             y="282.36749" />
-        </g>
-      </g>
-      <g
-         id="g528"
-         transform="translate(-17.531927,5.1081369)">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="1251.5116"
-           y="225.85179"
-           id="text124-0-4-4"><tspan
-             sodipodi:role="line"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1251.5116"
-             y="225.85179"
-             id="tspan123-1-1-3">Körper</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1251.5116"
-             y="236.32928"
-             id="tspan124-0-1-9" /></text>
-        <g
-           id="g1302-2-9-6-6"
-           transform="translate(1173.7202,-62.255486)"
-           style="display:inline">
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect453-3-2-2-3"
-             width="13.500764"
-             height="8.5585613"
-             x="95.356377"
-             y="282.36749" />
-        </g>
-      </g>
-      <g
-         id="g527"
-         transform="translate(-13.562446,5.1081369)">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="1205.8995"
-           y="226.25819"
-           id="text124-0-4-7"><tspan
-             sodipodi:role="line"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.65;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1205.8995"
-             y="226.25819"
-             id="tspan124-0-1-8">Sozial</tspan></text>
-        <g
-           id="g1302-2-9-8-0"
-           transform="translate(1126.0023,-62.255486)"
-           style="display:inline">
-          <rect
-             style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect453-3-2-0-2"
-             width="13.500764"
-             height="8.5585613"
-             x="95.356377"
-             y="282.36749" />
-        </g>
-      </g>
+       id="g1302-2"
+       transform="translate(1115.013,-164.59486)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="71.621567"
+         y="287.46744"
+         id="text451-8"><tspan
+           sodipodi:role="line"
+           id="tspan451-9"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="71.621567"
+           y="287.46744">Vergeben</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect453-3"
+         width="10.590345"
+         height="6.4419084"
+         x="95.356377"
+         y="282.36749" />
+    </g>
+    <g
+       id="g1303-6"
+       transform="translate(1128.8138,-164.58323)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="105.61359"
+         y="287.46744"
+         id="text448-8"><tspan
+           sodipodi:role="line"
+           id="tspan448-0"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="105.61359"
+           y="287.46744">Frei</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect454-2"
+         width="10.590345"
+         height="6.4419084"
+         x="117.15591"
+         y="282.36749" />
+    </g>
+    <g
+       id="g1305-1"
+       transform="translate(1089.3769,-153.53544)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="180.62544"
+         y="276.47607"
+         id="text452-0"><tspan
+           sodipodi:role="line"
+           id="tspan452-5"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="180.62544"
+           y="276.47607">Stufe</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.298239;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect455-1"
+         width="10.590345"
+         height="6.4419084"
+         x="194.55069"
+         y="271.3197" />
+    </g>
+    <g
+       id="g315"
+       transform="matrix(1.0217776,0,0,1,197.83575,-163.42629)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.37595px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="887.67462"
+         y="194.38254"
+         id="text16-9"><tspan
+           sodipodi:role="line"
+           id="tspan15-3"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.3759538px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="887.67462"
+           y="194.38254">Chronik</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="896.22729"
+         y="202.7142"
+         id="text46-6"><tspan
+           sodipodi:role="line"
+           id="tspan46-0"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="896.22729"
+           y="202.7142">Datum</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="1063.8041"
+         y="202.7142"
+         id="text47-6"><tspan
+           sodipodi:role="line"
+           id="tspan47-2"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="1063.8041"
+           y="202.7142">Erfahrung</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="981.66254"
+         y="202.64365"
+         id="text48-6"><tspan
+           sodipodi:role="line"
+           id="tspan48-1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+           x="981.66254"
+           y="202.64365">Queste</tspan></text>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 887.9286,206.123 h 195.7373"
+         id="path50-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 914.53437,197.40232 v 78.655"
+         id="path446-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1059.8332,197.40232 v 78.655"
+         id="path457-1"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:167.043;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="37.450947"
+         y="215.27548"
+         id="text3919-2"
+         transform="translate(891.44739,-23.060759)"><tspan
+           x="37.450947"
+           y="215.27548"
+           id="tspan330">Mache den ersten Eintrag bei der Erschaffung des Charakters und dann nach jedem Spielabend einen weiteren.</tspan></text>
     </g>
   </g>
   <g
@@ -2902,191 +2813,115 @@
      inkscape:label="Extras"
      style="display:inline"
      transform="translate(-880.00002)">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:131.282;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="482.23108"
+       y="150.22459"
+       id="text3907-9-8-2"
+       transform="translate(1327.4692,-0.188476)"><tspan
+         x="482.23108"
+         y="150.22459"
+         id="tspan331">Detaillierte Wirkung, Wirkungsdauer, Zauberdauer und Schwere der Konsequenzen des Zaubers.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999"
+       x="1764.8816"
+       y="6.7712169"
+       id="text1147-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan1147-6-0"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
+         x="1764.8816"
+         y="6.7712169">Dunkle Zeiten</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="1764.9902"
+       y="15.67582"
+       id="text478-6"><tspan
+         sodipodi:role="line"
+         id="tspan478-8"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="1764.9902"
+         y="15.67582">Magie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1937.259"
+       y="6.6696162"
+       id="text479-7"><tspan
+         sodipodi:role="line"
+         id="tspan479-9"
+         style="stroke-width:0.265"
+         x="1937.259"
+         y="6.6696162">www.landertal.de</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1765.0001,20.527781 h 200"
+       id="path479-0" />
     <g
-       id="g541"
-       transform="translate(0,0.17277283)">
-      <g
-         id="g539"
-         transform="translate(-2.1322379)">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:152.121;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="g174"
+       transform="translate(0,-7.9375002)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:152.121;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="488.02557"
+         y="34.256241"
+         id="text3907-9-9"
+         transform="translate(1320.0608,2.4411301)"><tspan
            x="488.02557"
            y="34.256241"
-           id="text3907-9-9"
-           transform="translate(1332.7764,2.2683573)"><tspan
-             x="488.02557"
-             y="34.256241"
-             id="tspan334">Quelle der magischen Kraft, verwendete Technik und  Art der Konsequenzen des Zauberns für den Zaubernden.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:131.282;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="482.23108"
-           y="150.22459"
-           id="text3907-9-8-2"
-           transform="translate(1335.4226,-0.36124883)"><tspan
-             x="482.23108"
-             y="150.22459"
-             id="tspan335">Detaillierte Wirkung, Wirkungsdauer, Zauberdauer und Schwere der Konsequenzen des Zaubers.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999"
-           x="1767.0138"
-           y="6.598444"
-           id="text1147-3-8"><tspan
-             sodipodi:role="line"
-             id="tspan1147-6-0"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
-             x="1767.0138"
-             y="6.598444">Dunkle Zeiten</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="1929.6816"
-           y="28.348234"
-           id="text456-8"
-           transform="translate(7.2916667e-6)"><tspan
-             sodipodi:role="line"
-             id="tspan456-9"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="1929.6816"
-             y="28.348234">Gewichtung</tspan></text>
-        <rect
-           style="display:inline;fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.242075;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect457-0"
-           width="6.9772067"
-           height="6.4419084"
-           x="1960.155"
-           y="23.343794"
-           transform="translate(7.2916667e-6)" />
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="1767.1224"
-           y="15.503048"
-           id="text478-6"><tspan
-             sodipodi:role="line"
-             id="tspan478-8"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1767.1224"
-             y="15.503048">Magie</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="1939.3912"
-           y="6.4968433"
-           id="text479-7"><tspan
-             sodipodi:role="line"
-             id="tspan479-9"
-             style="stroke-width:0.265"
-             x="1939.3912"
-             y="6.4968433">www.landertal.de</tspan></text>
-        <path
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 1767.1323,20.355008 h 200"
-           id="path479-0"
-           transform="translate(7.2916667e-6)" />
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="1766.8953"
-           y="37.845757"
-           id="text480-5"
-           transform="translate(7.2916667e-6)"><tspan
-             sodipodi:role="line"
-             id="tspan480-2"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1766.8953"
-             y="37.845757">Beschreibung</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-           x="1766.8867"
-           y="151.08713"
-           id="text483-6"
-           transform="translate(7.2916667e-6)"><tspan
-             sodipodi:role="line"
-             id="tspan483-5"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
-             x="1766.8867"
-             y="151.08713">Wirkungen</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="1967.1915"
-           y="155.55322"
-           id="text486-8"
-           transform="translate(7.2916667e-6)"><tspan
-             sodipodi:role="line"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="1967.1915"
-             y="155.55322"
-             id="tspan486-7">Schwierigkeit</tspan></text>
-        <path
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 1767.1323,159.11874 h 200"
-           id="path486-9"
-           transform="translate(7.2916667e-6)" />
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="1848.7794"
-           y="28.370169"
-           id="text487-6"
-           transform="translate(7.2916667e-6)"><tspan
-             sodipodi:role="line"
-             id="tspan487-0"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="1848.7794"
-             y="28.370169">Fertigkeit</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="1767.2847"
-           y="28.370169"
-           id="text487-3-4"
-           transform="translate(7.2916667e-6)"><tspan
-             sodipodi:role="line"
-             id="tspan487-5-1"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-             x="1767.2847"
-             y="28.370169">Tradition</tspan></text>
-        <rect
-           style="display:inline;fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.332797;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect487-0"
-           width="52.59462"
-           height="6.2902546"
-           x="1874.5474"
-           y="23.495447"
-           transform="translate(7.2916667e-6)" />
-        <rect
-           style="display:inline;fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.332797;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect487-0-9"
-           width="53.974461"
-           height="6.2122054"
-           x="1792.0684"
-           y="23.573496"
-           transform="translate(7.2916667e-6)" />
-        <rect
-           style="display:inline;fill:#ffffff;fill-opacity:0.0967818;stroke:none;stroke-width:0.703748;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect487-6-4"
-           width="12.177246"
-           height="125.29831"
-           x="1950.2275"
-           y="162.42798" />
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           x="1867.8414"
-           y="292.72794"
-           id="text228-1-2-6-3-2-1"><tspan
-             sodipodi:role="line"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
-             x="1867.8414"
-             y="292.72794"
-             id="tspan61-2-2-0-1-4-6">5</tspan></text>
-      </g>
+           id="tspan332">Quelle der magischen Kraft, verwendete Technik und  Art der Konsequenzen des Zauberns für den Zaubernden.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="1764.7631"
+         y="38.018528"
+         id="text480-5"><tspan
+           sodipodi:role="line"
+           id="tspan480-2"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+           x="1764.7631"
+           y="38.018528">Tradition</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+       x="1764.7545"
+       y="151.2599"
+       id="text483-6"><tspan
+         sodipodi:role="line"
+         id="tspan483-5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Almendra;-inkscape-font-specification:'Almendra, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0"
+         x="1764.7545"
+         y="151.2599">Wirkungen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1965.0593"
+       y="150.03612"
+       id="text486-8"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         x="1965.0593"
+         y="150.03612"
+         id="tspan486-7">Schwierigkeit</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.267896;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1765.0001,153.99981 h 200"
+       id="path486-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1865.7092"
+       y="292.9007"
+       id="text228-1-2-6-3-2-1"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Almendra;-inkscape-font-specification:'Almendra, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.265"
+         x="1865.7092"
+         y="292.9007"
+         id="tspan61-2-2-0-1-4-6">5</tspan></text>
     <g
        id="g542"
        transform="translate(0,0.17806496)">
